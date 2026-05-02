@@ -1,6 +1,6 @@
 # Design Standards
 
-Source of truth for [Your Org] design system documentation.
+Source of truth for Accutech's Design System documentation.
 This repo drives AI queryability, developer linting, and human
 documentation from a single set of structured files.
 
