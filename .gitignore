@@ -1,0 +1,25 @@
+# Node — for the GitHub Action and ESLint plugin
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment — never commit tokens or secrets
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output — if the ESLint plugin ever gets compiled
+dist/
+build/
